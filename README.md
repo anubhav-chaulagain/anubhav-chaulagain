@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm anubhav-chaulagain</h1>
 <h3 align="center">Just a learner</h3>
-<img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/325895827-ad50585b-2e08-4f45-9836-9bb6d67e2a86.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzA4MjE0MzksIm5iZiI6MTczMDgyMTEzOSwicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU4MjctYWQ1MDU4NWItMmUwOC00ZjQ1LTk4MzYtOWJiNmQ2N2UyYTg2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTA1VDE1Mzg1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU0NmIzY2ZmYzM4MDUwMmY1NTBhYTYxZDNjM2JjYTAxMjU4NjEwNzI1NWIzYzFjNmZlMzk3NTc0MjU3NDUxNjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ia-UiBA8gAHwRVUxskBNaNjFPGn7CtfkePwU9u6fPkY">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhav-chaulagain&label=Profile%20views&color=0e75b6&style=flat" alt="anubhav-chaulagain" /> </p>
 
 - 🔭 I’m currently working on **Online E-commerce Site**
