@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Online E-commerce Site**
 
-- 🌱 I’m currently learning **Full-Stack Web Development**
+- 🌱 I’m currently learning **Full-Stack Web Development & DSA**
 
 - 💬 Ask me about **Java**
 
