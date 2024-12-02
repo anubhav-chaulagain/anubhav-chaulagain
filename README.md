@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Web Development & DSA**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **DSA**
 
 - 📫 How to reach me **achaulagain.mail123@gmail.com**
 
