@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhav-chaulagain&label=Profile%20views&color=0e75b6&style=flat" alt="anubhav-chaulagain" /> </p>
 
-- 🔭 I’m currently working on **Online E-commerce Site**
+- 🔭 I’m currently working on **FixMyTown**
 
-- 🌱 I’m currently learning **Full-Stack Web Development & DSA**
+- 🌱 I’m currently learning **Full-Stack Web Development & Mobile App Development**
 
 - 💬 Ask me about **DSA**
 
